@@ -20,7 +20,7 @@
    * 1, Kerülni a szó illetve tartalom beli ismétlést
    * 2, Ha állítást írunk annak kontextust adni
    * 3, Egyező hangnem és hangszín írni az egész esszében
-   * 4, Érhető és egyszerű szavak és kifejezések használata
+   * 4, Érthető és egyszerű szavak és kifejezések használata
 
 # Címek
 ## Rövid esszék
